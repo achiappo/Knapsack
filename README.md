@@ -5,7 +5,7 @@
 
 #### Efficient Allocation
 
-Filling 10 backpacks with 20 different size boxes might seem a common 
+Filling 10 backpacks with 20 different size boxes might seem a common  
 task but different variables have to be considered to achieve this.
 
 Determine the best approach to obtain an efficient allocation of 20 boxes into 10 backpacks.
