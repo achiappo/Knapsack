@@ -13,7 +13,7 @@ boxes into the available backpacks.
 
 ##### Boxes characteristics:
 
-• Box have type A and type B)
-• Box have different size
-• Backpack have different capacity
-• Box have different timing labels 
+• Box have type A and type B)  
+• Box have different size  
+• Backpack have different capacity  
+• Box have different timing labels  
