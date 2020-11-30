@@ -16,3 +16,5 @@ Determine the best approach to obtain an efficient allocation of 20 boxes into 1
 • Boxex have different size  
 • Backpacks have different capacity  
 • Boxes have different timing labels  
+
+(see the file *challenge_statement.pdf* for a detailed complete problem statement)
