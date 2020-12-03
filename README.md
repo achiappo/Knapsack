@@ -12,9 +12,9 @@ Determine the best approach to obtain an efficient allocation of 20 boxes into 1
 
 #### Boxes characteristics:
 
-• Boxes have type A and type B  
-• Boxex have different size  
+• Boxex have different size and value  
+• Boxes have different timing label  
+• Boxes have either type A or type B label  
 • Backpacks have different capacity  
-• Boxes have different timing labels  
 
 (see the file *challenge_statement.pdf* for a detailed complete problem statement)
